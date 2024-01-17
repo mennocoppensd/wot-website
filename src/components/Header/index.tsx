@@ -68,13 +68,13 @@ const Header = ({ t }: { t: TFunction }) => {
             <Outline />
           </Burger>
         </Row>
-        <Drawer closable={false} open={visible} onClose={toggleButton}>
-          <Col style={{ marginBottom: "2.5rem" }}>
+        <Drawer closable={false} open={visible} onClose={toggleButton} >
+          <Col style={{ marginBottom: "2.5rem"}}>
             <Label onClick={toggleButton}>
-              <Col span={12}>
+              <Col span={12} >
                 <Menu>Menu</Menu>
               </Col>
-              <Col span={12}>
+              <Col span={12} >
                 <Outline />
               </Col>
             </Label>

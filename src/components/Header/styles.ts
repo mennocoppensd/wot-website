@@ -65,12 +65,13 @@ export const CustomNavLinkSmall = styled(NavLink)`
 
   @media only screen and (max-width: 768px) {
     margin: 1.25rem 2rem;
+    color: #000;
   }
 `;
 
 export const Label = styled("span")`
   font-weight: 500;
-  color: #fff;
+  color: #000;
   text-align: right;
   display: flex;
   justify-content: space-between;
