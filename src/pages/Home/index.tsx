@@ -22,6 +22,7 @@ const Home = () => {
   return (
     <Container>
       <ScrollToTop />
+      <div className="content-container">
       <ContentBlock
         direction="right"
         title={IntroContent.title}
@@ -30,9 +31,10 @@ const Home = () => {
           // color= {IntroContent.color}
           // backgroundColor= {IntroContent.backgroundColor}
           // border = {IntroContent.border}
-        icon="developer.svg"
+        icon="nieuwe_groepsfoto.png "
         id="intro"
       />
+
       <MiddleBlock
         title={MiddleBlockContent.title}
         content={MiddleBlockContent.text}
@@ -108,6 +110,7 @@ const Home = () => {
         </Grid>
       ))}
     </Grid>
+    </div>
     </Container>
   );
 };
