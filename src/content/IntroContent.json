@@ -4,10 +4,13 @@
   "button": [
     {
       "title": "Ontdek ons verhaal"
+
     },
     {
       "title": "Ontdek het team",
-      "color": "#fff"
+      "color": "#1E0407",
+      "backgroundColor": "#1E0407",
+      "border": "0.1rem solid #fff"
     }
   ]
 }

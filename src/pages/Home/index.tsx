@@ -27,6 +27,9 @@ const Home = () => {
         title={IntroContent.title}
         content={IntroContent.text}
         button={IntroContent.button}
+          // color= {IntroContent.color}
+          // backgroundColor= {IntroContent.backgroundColor}
+          // border = {IntroContent.border}
         icon="developer.svg"
         id="intro"
       />
@@ -64,7 +67,7 @@ const Home = () => {
       <ContentBlock
         direction="right"
         title={VerhaalContent.title}
-        content={VerhaalContent.text}
+        content={VerhaalContent.text + VerhaalContent.text2}
         icon="product-launch.svg"
         id="verhaal"
       />
@@ -93,7 +96,9 @@ const Home = () => {
                 style={{ height: '200px', width: '200px' }} 
               />
             </div>
+            <div className="memberName">
             <h3 style={{ textAlign: 'center' }}>{member.name}</h3>
+            </div>
             <p style={{ textAlign: 'center' }}>{member.description}</p>
             <div style={{ textAlign: 'center' }}>
               <Link href={member.githubUrl} target="_blank"><GitHubIcon /></Link>

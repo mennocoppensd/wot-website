@@ -2,55 +2,61 @@
   [
   {
     "name": "Touch sensoren",
-    "description": "Teamleider en uitwerking van de kist en de challenge van de lasers",
+    "description": "Deze geavanceerde sensoren reageren op aanraking en zijn geïntegreerd in de buitenkant van de kluis. ",
     "imageUrl": "img/props/touch-sensoren.svg"
 
   },
   {
     "name": "Laserdoolhof",
-    "description": "Challenge 3",
+    "description": "Door zeer nauwkeurig te werk te gaan, kunnen de spelers door middel van laserstralen de puzzel tot een goed einde brengen.",
     "imageUrl": "img/props/laser-doolhof.svg"
 
   },
   {
     "name": "Morsecode",
-    "description": "Uitwerking van de kist en de challenge van de lasers 🚨",
+    "description": "Luister goed naar de morsecode en ontcijfer de boodschap.",
     "imageUrl": "/img/props/morse.svg"
 
   },
   {
     "name": "Lasergun",
-    "description": "Challenge 3",
+    "description": "Gebruik deze tool om de camera's in de juiste volgorde uit te schakelen.",
     "imageUrl": "/img/props/laser-gun.svg"
 
   },
   {
     "name": "Camerabox",
-    "description": "Challenge 3",
+    "description": "Dit zijn de 4 camera's , elke aangestuurd met een Arduino Nano Wi-fi, inclusief IR receiver en LED-component.",
     "imageUrl": "/img/props/camera-box.svg"
 
   },
   {
+    "name": "Dashboardscherm",
+    "description": "Hierop kunnen de spelers de 4 camerabeelden en hun status bekjken. ",
+    "imageUrl": "/img/props/Grid.svg"
+
+  },
+  {
     "name": "Complementaire kabels",
-    "description": "Challenge 3",
+    "description": "Plaats elke kabel in de juiste poort, het vinden van de juiste combinatie is de sleutel tot succes.",
     "imageUrl": "/img/props/cable.svg"
 
   },
   {
     "name": "Positionering",
-    "description": "Challenge 3",
+    "description": "Hierdoor kunnen we de locatie van de tablet in de ruimte traceren en visueel updaten op de tablet.",
     "imageUrl": "/img/props/positioning.svg"
 
   },
   {
     "name": "Geluid",
-    "description": "Challenge 3",
+    "description": "Om de beleving in de escape room te optimaliseren, integreerden we sound effects gedurende het hele spel.",
     "imageUrl": "/img/props/sound.svg"
 
   },
   {
     "name": "Tablet",
-    "description": "Challenge 3",
+    "description": "Om zowel het dashboardscherm en de positionering visueel voor te stellen, aangestuurd met een Raspberry Pi.",
     "imageUrl": "/img/props/tablet.svg"
 
   }

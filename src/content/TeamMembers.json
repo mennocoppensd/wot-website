@@ -30,24 +30,24 @@
   },
   {
     "name": "Bram Van Doren",
-    "description": "Challenge 3",
-    "imageUrl": "menno.jpg",
-    "githubUrl": "https://github.com/mennocoppensd",
-    "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
+    "description": "Mezelf zijn",
+    "imageUrl": "img/team/bram.jpg",
+    "githubUrl": "https://github.com/bramvandoren",
+    "linkedinUrl": "https://www.linkedin.com/in/bram-van-doren-077802223/"
   },
   {
     "name": "Wouter Tack",
-    "description": "Challenge 3",
-    "imageUrl": "wouter.jpg",
-    "githubUrl": "https://github.com/mennocoppensd",
-    "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
+    "description": "Uitwerking van challenge1, mqtt verbindingen en camera",
+    "imageUrl": "img/team/wouter.jpg",
+    "githubUrl": "https://github.com/woutertack",
+    "linkedinUrl": "https://www.linkedin.com/in/wouter-tack-328530273/"
   },
   {
     "name": "Sebastien",
-    "description": "Challenge 3",
-    "imageUrl": "menno.jpg",
-    "githubUrl": "https://github.com/mennocoppensd",
-    "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
+    "description": "Uitwerking van het scherm en challenge 5",
+    "imageUrl": "img/team/seba.jpg",
+    "githubUrl": "https://github.com/SebastienDaled",
+    "linkedinUrl": "https://www.linkedin.com/in/sebastien-daled-rosseel-5b3261223/"
   },
   {
     "name": "Menno Coppens d'Eeckenbrugge",

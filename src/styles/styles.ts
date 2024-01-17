@@ -128,4 +128,10 @@ export const Styles = createGlobalStyle`
         padding-top: 1rem;
         font-size: 1.5rem;
       }
+
+      .memberName h3 {
+        padding-top: 1rem;
+        font-size: 2rem;
+      }
+
 `;
