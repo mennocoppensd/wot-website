@@ -1,0 +1,16 @@
+{
+  "title": "Leerrijke iteraties",
+  "text": "Doorheen de vele weken zorgden de vele iteraties voor een consistente evolutie in de props. We verwierven kennis en onderzochten diverse mogelijkheden om de props te laten werken. Van breadboards tot solderen, we implementeerden het allemaal om de juiste connecties te kunnen leggen. Eenmaal werkend, konden we de props met elkaar doen interageren via MQTT communicatie. Alle props konden we zo vanuit xcape.io, een software voor escape rooms, makkelijk besturen.",
+  "section": [
+    {
+      "title": "Why Antd?",
+      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why styled-components?",
+      "content": "Styled Components gives you total control over your components.",
+      "icon": "notes.svg"
+    }
+  ]
+}
