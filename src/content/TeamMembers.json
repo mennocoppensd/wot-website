@@ -9,7 +9,7 @@
   },
   {
     "name": "Rhanna Coopman",
-    "description": "Challenge 3",
+    "description": "Teamleider en uitwerking van complementaire kabels",
     "imageUrl": "menno.jpg",
     "githubUrl": "https://github.com/mennocoppensd",
     "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
@@ -23,42 +23,42 @@
   },
   {
     "name": "Iris",
-    "description": "Challenge 3",
-    "imageUrl": "menno.jpg",
-    "githubUrl": "https://github.com/mennocoppensd",
-    "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
+    "description": "Uitwerking van de kleine kluis",
+    "imageUrl": "img/team/iris.jpg",
+    "githubUrl": "https://github.com/IrisMaenhout",
+    "linkedinUrl": "https://www.linkedin.com/in/iris-maenhout/"
   },
   {
     "name": "Bram Van Doren",
-    "description": "Mezelf zijn",
+    "description": "Uitwerking lasergun en cameraboxen",
     "imageUrl": "img/team/bram.jpg",
     "githubUrl": "https://github.com/bramvandoren",
     "linkedinUrl": "https://www.linkedin.com/in/bram-van-doren-077802223/"
   },
   {
     "name": "Wouter Tack",
-    "description": "Uitwerking van challenge1, mqtt verbindingen en camera",
+    "description": "Uitwerking van touch sensoren, MQTT verbindingen en dashboardscherm",
     "imageUrl": "img/team/wouter.jpg",
     "githubUrl": "https://github.com/woutertack",
     "linkedinUrl": "https://www.linkedin.com/in/wouter-tack-328530273/"
   },
   {
     "name": "Sebastien",
-    "description": "Uitwerking van het scherm en challenge 5",
+    "description": "Uitwerking van positionering en tablet",
     "imageUrl": "img/team/seba.jpg",
     "githubUrl": "https://github.com/SebastienDaled",
     "linkedinUrl": "https://www.linkedin.com/in/sebastien-daled-rosseel-5b3261223/"
   },
   {
     "name": "Menno Coppens d'Eeckenbrugge",
-    "description": "Challenge 3",
+    "description": "Uitwerking lasergun en verwelkomingsvideo",
     "imageUrl": "img/team/menno.jpg",
     "githubUrl": "https://github.com/mennocoppensd",
     "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
   },
   {
     "name": "Sam",
-    "description": "Challenge 3",
+    "description": "Uitwerking van positionering en tablet",
     "imageUrl": "menno.jpg",
     "githubUrl": "https://github.com/mennocoppensd",
     "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"

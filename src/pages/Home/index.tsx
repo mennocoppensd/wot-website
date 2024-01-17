@@ -101,7 +101,7 @@ const Home = () => {
             </div>
             <p style={{ textAlign: 'center' }}>{member.description}</p>
             <div style={{ textAlign: 'center' }}>
-              <Link href={member.githubUrl} target="_blank"><GitHubIcon /></Link>
+              <Link href={member.githubUrl} target="_blank"><GitHubIcon style={{color: "#000"}} /></Link>
               <Link href={member.linkedinUrl} target="_blank"><LinkedInIcon /></Link>
             </div>
           </div>
