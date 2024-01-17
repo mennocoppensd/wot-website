@@ -50,42 +50,27 @@ const Footer = ({ t }: { t: TFunction }) => {
   
       <Extra>
         <Container border={true}>
-          <Row
-            justify="space-between"
-            align="middle"
-            style={{ paddingTop: "3rem" }}
-          >
-            <FooterContainer>
-              <SocialLink
-                href="https://github.com/Adrinlol/create-react-app-adrinlol"
-                src="github.svg"
-              />
-              <SocialLink
-                href="https://twitter.com/Adrinlolx"
-                src="twitter.svg"
-              />
-              <SocialLink
-                href="https://www.linkedin.com/in/lasha-kakabadze/"
-                src="linkedin.svg"
-              />
-              <SocialLink
-                href="https://medium.com/@lashakakabadze/"
-                src="medium.svg"
-              />
-              <a
-                href="https://ko-fi.com/Y8Y7H8BNJ"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <img
-                  height="36"
-                  style={{ border: 0, height: 36 }}
-                  src="https://storage.ko-fi.com/cdn/kofi3.png?v=3"
-                  alt="Buy Us a Coffee at ko-fi.com"
-                />
-              </a>
-            </FooterContainer>
-          </Row>
+          <Col lg={6} md={6} sm={12} xs={12}>
+              <Label htmlFor="select-lang">{t("Taal")}</Label>
+              <LanguageSwitchContainer>
+                <LanguageSwitch onClick={() => handleChange("en")}>
+                  <SvgIcon
+                    src="belgium.svg"
+                    aria-label="homepage"
+                    width="30px"
+                    height="30px"
+                  />
+                </LanguageSwitch>
+                <LanguageSwitch onClick={() => handleChange("es")}>
+                  <SvgIcon
+                    src="spain.svg"
+                    aria-label="homepage"
+                    width="30px"
+                    height="30px"
+                  />
+                </LanguageSwitch>
+              </LanguageSwitchContainer>
+            </Col>
         </Container>
       </Extra>
     </>

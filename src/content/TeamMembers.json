@@ -1,0 +1,67 @@
+
+  [
+  {
+    "name": "Femke Steeman",
+    "description": "Teamleider en uitwerking van de kist en de challenge van de lasers",
+    "imageUrl": "img/team/femke.jpg",
+    "githubUrl": "https://github.com/mennocoppensd",
+    "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
+  },
+  {
+    "name": "Rhanna Coopman",
+    "description": "Challenge 3",
+    "imageUrl": "menno.jpg",
+    "githubUrl": "https://github.com/mennocoppensd",
+    "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
+  },
+  {
+    "name": "Aleyna Uzuncam",
+    "description": "Uitwerking van de kist en de challenge van de lasers 🚨",
+    "imageUrl": "img/team/aleyna.jpg",
+    "githubUrl": "https://github.com/UzuncamAleyna",
+    "linkedinUrl": "https://www.linkedin.com/in/aleyna-uzuncam-688369222/"
+  },
+  {
+    "name": "Iris",
+    "description": "Challenge 3",
+    "imageUrl": "menno.jpg",
+    "githubUrl": "https://github.com/mennocoppensd",
+    "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
+  },
+  {
+    "name": "Bram Van Doren",
+    "description": "Challenge 3",
+    "imageUrl": "menno.jpg",
+    "githubUrl": "https://github.com/mennocoppensd",
+    "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
+  },
+  {
+    "name": "Wouter Tack",
+    "description": "Challenge 3",
+    "imageUrl": "wouter.jpg",
+    "githubUrl": "https://github.com/mennocoppensd",
+    "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
+  },
+  {
+    "name": "Sebastien",
+    "description": "Challenge 3",
+    "imageUrl": "menno.jpg",
+    "githubUrl": "https://github.com/mennocoppensd",
+    "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
+  },
+  {
+    "name": "Menno Coppens d'Eeckenbrugge",
+    "description": "Challenge 3",
+    "imageUrl": "img/team/menno.jpg",
+    "githubUrl": "https://github.com/mennocoppensd",
+    "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
+  },
+  {
+    "name": "Sam",
+    "description": "Challenge 3",
+    "imageUrl": "menno.jpg",
+    "githubUrl": "https://github.com/mennocoppensd",
+    "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
+  }
+
+]
