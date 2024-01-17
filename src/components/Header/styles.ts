@@ -41,7 +41,7 @@ export const Burger = styled("div")`
   display: none;
 
   svg {
-    fill: rgb(163 8 8);
+    fill: #CF3848;
   }
 `;
 
@@ -59,7 +59,7 @@ export const Menu = styled("h5")`
 
 export const CustomNavLinkSmall = styled(NavLink)`
   font-size: 1.2rem;
-  color: rgb(163 8 8);
+  color: #CF3848;
   transition: color 0.2s ease-in;
   margin: 0.5rem 2rem;
 
@@ -70,7 +70,7 @@ export const CustomNavLinkSmall = styled(NavLink)`
 
 export const Label = styled("span")`
   font-weight: 500;
-  color: rgb(163 8 8);
+  color: #CF3848;
   text-align: right;
   display: flex;
   justify-content: space-between;
@@ -88,8 +88,8 @@ export const Span = styled("span")`
   &:hover,
   &:active,
   &:focus {
-    color: rgb(163 8 8);
+    color: #CF3848;
     text-underline-position: under;
-    text-decoration: rgb(163 8 8) wavy underline;
+    text-decoration: #CF3848 wavy underline;
   }
 `;

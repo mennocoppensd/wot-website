@@ -9,7 +9,7 @@ export const ScrollUpContainer = styled("div")<{
   bottom: 30px;
   z-index: 10;
   cursor: pointer;
-  background: rgb(163 8 8);
+  background: #CF3848;
   text-align: center;
   align-items: center;
   border-radius: 4px;

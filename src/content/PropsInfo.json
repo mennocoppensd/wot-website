@@ -1,58 +1,59 @@
 
   [
   {
-    "name": "Prop 1",
+    "name": "Touch sensoren",
     "description": "Teamleider en uitwerking van de kist en de challenge van de lasers",
-    "imageUrl": "menno.jpg"
+    "imageUrl": "img/props/touch-sensoren.svg"
 
   },
   {
-    "name": "Prop 2",
+    "name": "Laserdoolhof",
     "description": "Challenge 3",
-    "imageUrl": "menno.jpg"
+    "imageUrl": "img/props/laser-doolhof.svg"
 
   },
   {
-    "name": "Prop 3",
+    "name": "Morsecode",
     "description": "Uitwerking van de kist en de challenge van de lasers 🚨",
-    "imageUrl": "/aleyna.jpg"
+    "imageUrl": "/img/props/morse.svg"
 
   },
   {
-    "name": "Prop 4",
+    "name": "Lasergun",
     "description": "Challenge 3",
-    "imageUrl": "menno.jpg"
+    "imageUrl": "/img/props/laser-gun.svg"
 
   },
   {
-    "name": "Prop 5",
+    "name": "Camerabox",
     "description": "Challenge 3",
-    "imageUrl": "menno.jpg"
+    "imageUrl": "/img/props/camera-box.svg"
 
   },
   {
-    "name": "Prop 6",
+    "name": "Complementaire kabels",
     "description": "Challenge 3",
-    "imageUrl": "wouter.jpg"
+    "imageUrl": "/img/props/cable.svg"
 
   },
   {
-    "name": "Prop 7",
+    "name": "Positionering",
     "description": "Challenge 3",
-    "imageUrl": "menno.jpg"
+    "imageUrl": "/img/props/positioning.svg"
 
   },
   {
-    "name": "Prop 8",
+    "name": "Geluid",
     "description": "Challenge 3",
-    "imageUrl": "menno.jpg"
+    "imageUrl": "/img/props/sound.svg"
 
   },
   {
-    "name": "Prop 9",
+    "name": "Tablet",
     "description": "Challenge 3",
-    "imageUrl": "menno.jpg"
+    "imageUrl": "/img/props/tablet.svg"
 
   }
+
 
 ]

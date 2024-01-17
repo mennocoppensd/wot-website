@@ -32,7 +32,7 @@ export const Styles = createGlobalStyle`
     }
 
     a:hover {
-        color: rgb(163 8 8);
+        color: #CF3848;
     }
 
     input,
@@ -58,7 +58,7 @@ export const Styles = createGlobalStyle`
     h5,
     h6 {
         font-family: 'Motiva Sans Bold', serif;
-        color: rgb(163 8 8);
+        color: #CF3848;
         font-size: 56px;
         line-height: 1.18;
 
@@ -109,4 +109,23 @@ export const Styles = createGlobalStyle`
     .ant-drawer-content-wrapper {
         width: 300px !important;
     }
+
+    body::-webkit-scrollbar {
+        width: 6px;
+      }
+      
+      body::-webkit-scrollbar-track {
+        background: #f5f5f5;
+      }
+      
+      body::-webkit-scrollbar-thumb {
+        background-color: #ccc;
+        border-radius: 20px;
+        border: 5px solid #86080d;
+      }
+      
+      .propInfo h3 {
+        padding-top: 1rem;
+        font-size: 1.5rem;
+      }
 `;
