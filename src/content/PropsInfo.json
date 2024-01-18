@@ -26,7 +26,7 @@
   },
   {
     "name": "Camerabox",
-    "description": "Dit zijn de 4 camera's , elke aangestuurd met een Arduino Nano Wi-fi, inclusief IR receiver en LED-component.",
+    "description": "Dit zijn de 4 camera's , elke aangestuurd met een Arduino Uno Wi-fi, inclusief IR receiver en LED-component.",
     "imageUrl": "/img/props/camera-box.svg"
 
   },
@@ -40,6 +40,12 @@
     "name": "Complementaire kabels",
     "description": "Plaats elke kabel in de juiste poort, het vinden van de juiste combinatie is de sleutel tot succes.",
     "imageUrl": "/img/props/cable.svg"
+
+  },
+  {
+    "name": "Keypad",
+    "description": "Hier geef je de juiste pincode op in.",
+    "imageUrl": "/img/props/keypad.svg"
 
   },
   {

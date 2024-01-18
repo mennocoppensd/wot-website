@@ -78,7 +78,7 @@ const Home = () => {
         direction="left"
         title={InkledingContent.title}
         content={InkledingContent.text}
-        icon="waving.svg"
+        icon="inkleding.jpg"
         id="inkleding"
       />
       <ContentBlock
