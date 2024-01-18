@@ -7,6 +7,7 @@ import InkledingContent from "../../content/InkledingContent.json";
 import TeamContent from "../../content/TeamContent.json";
 import teamMembers from "../../content/TeamMembers.json";
 import PropsInfo from "../../content/PropsInfo.json";
+import { withTranslation,  } from "react-i18next";
 
 import { Grid, Avatar, Link } from '@mui/material';
 import GitHubIcon from '@mui/icons-material/GitHub';
@@ -115,4 +116,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default withTranslation()(Home);

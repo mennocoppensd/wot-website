@@ -24,5 +24,77 @@
   "Name" : "Nombre",
   "Your Name": "Tu nombre",
   "Email" : "Email",
-  "Your Email": "Tu correo electrónico"
+  "Your Email": "Tu correo electrónico",
+  "Elke hoek van de escape room is doordrenkt met mysterie en uitdagingen!": "¡Cada rincón de la sala de escape está lleno de misterio y desafíos!",
+  "Ontdek ons verhaal": "Descubre nuestra historia",
+  "Ontdek het team":"Descubre el equipo",
+  "Laten we beginnen bij het begin...":"Empecemos desde el principio...",
+  "12 weken lang hebben we intensief gewerkt aan deze escape room. We hopen dat jullie er net zo van genieten als wij. Het is een uitdaging geweest om dit te realiseren. We hebben veel geleerd en we zijn gegroeid als team. Brainstormen, uitwerken, het hele concept omgooien, opnieuw uitwerken, componenten solderen, MQTT communicatie, afwerken en blijven verfijnen, het hoorde er allemaal bij. Maar we zijn blij dat onze tijd en energie zich heeft gevormd naar een eindproduct waar we met trots op mogen terugkijken.":"Trabajamos intensamente en este escape room durante 12 semanas. Esperamos que lo disfrutes tanto como nosotros. Ha sido un desafío lograrlo. Aprendimos mucho y crecimos como equipo. Lluvia de ideas, desarrollo, cambiar todo el concepto, redesarrollarlo, soldar componentes, comunicación MQTT, terminar y seguir perfeccionando, todo era parte de ello. Pero estamos felices de que nuestro tiempo y energía hayan dado como resultado un producto final que podemos recordar con orgullo.",
+  "Een overzicht van alle props":"Una descripción general de todos los accesorios.",
+  "Alle props die geïntegreerd zijn in de escape room. In totaal goed voor 9 Arduino's, 3 Raspberry Pi's en maximum 30 minuten spelplezier!":"Todos los accesorios integrados en la sala de escape. ¡En total vale para 9 Arduinos, 3 Raspberry Pis y un máximo de 30 minutos de diversión jugando!",
+
+"Touch sensoren":"Sensores táctiles",
+"Deze geavanceerde sensoren reageren op aanraking en zijn geïntegreerd in de buitenkant van de kluis.":"Estos sensores avanzados responden al tacto y están integrados en el exterior de la caja fuerte.",
+
+"Laserdoolhof": "Laberinto láser",
+"Door zeer nauwkeurig te werk te gaan, kunnen de spelers door middel van laserstralen de puzzel tot een goed einde brengen.":"Al trabajar con mucha precisión, los jugadores pueden utilizar rayos láser para completar el rompecabezas.",
+
+"Morsecode":"código Morse",
+"Luister goed naar de morsecode en ontcijfer de boodschap.":"Escuche atentamente el código Morse y descifre el mensaje.",
+
+"Lasergun": "Pistola laser",
+"Gebruik deze tool om de camera's in de juiste volgorde uit te schakelen.":"Utilice esta herramienta para desactivar las cámaras en el orden correcto.",
+
+"Camerabox":"Caja de cámara",
+"Dit zijn de 4 camera's , elke aangestuurd met een Arduino Nano Wi-fi, inclusief IR receiver en LED-component.":"Estas son las 4 cámaras, cada una controlada con un Arduino Nano Wi-Fi, incluido un receptor de infrarrojos y un componente LED.",
+
+"Dashboardscherm":"Pantalla del tablero",
+"Hierop kunnen de spelers de 4 camerabeelden en hun status bekjken.":"Aquí los jugadores pueden ver las imágenes de las 4 cámaras y su estado.",
+
+"Complementaire kabels":"Cables complementarios",
+"Plaats elke kabel in de juiste poort, het vinden van de juiste combinatie is de sleutel tot succes.": "Inserte cada cable en el puerto correcto; encontrar la combinación correcta es la clave del éxito.",
+
+"Positionering":"Posicionamiento",
+"Hierdoor kunnen we de locatie van de tablet in de ruimte traceren en visueel updaten op de tablet.":"Esto nos permite rastrear la ubicación de la tableta en el espacio y actualizarla visualmente en la tableta.",
+
+"Geluid":"Sonido",
+"Om de beleving in de escape room te optimaliseren, integreerden we sound effects gedurende het hele spel.":"Para optimizar la experiencia en la sala de escape, integramos efectos de sonido durante todo el juego.",
+
+"Tablet":"Tableta",
+"Om zowel het dashboardscherm en de positionering visueel voor te stellen, aangestuurd met een Raspberry Pi.":"Presentar visualmente tanto la pantalla del tablero como el posicionamiento, controlado con una Raspberry Pi.",
+
+"Het verhaal achter onze Escape Room":"La historia detrás de nuestro Escape Room",
+
+"In onze escape room kruip je in de rollen van Antonio, Isabella, Miguel en Elena. Vier unieke individuen met bijzondere vaardigheden. Na jaren van criminele activiteiten als de beruchte bende 'Las Sombras De La Noche', hebben ze elkaar weer gevonden voor één laatste opdracht, namelijk het beroven van de zwaarbeveiligde privébank van de koningin van Spanje. Samen moeten ze hun verschillen opzij zetten en hun vaardigheden bundelen om de grote kluis te kraken en de buit veilig te stellen. Ben jij klaar om deel uit te maken van hun spannendste missie tot nu toe? Doe mee en ontrafel de mysteries in deze meeslepende escape room ervaring!":"En nuestra sala de escape asumes los roles de Antonio, Isabella, Miguel y Elena. Cuatro individuos únicos con habilidades especiales. Después de años de actividades criminales como la infame pandilla 'Las Sombras De La Noche', se han reunido para una última misión: robar el banco privado de alta seguridad de la Reina de España. Juntos deberán dejar de lado sus diferencias y combinar sus habilidades para romper la gran bóveda y asegurar el botín. ¿Estás listo para ser parte de su misión más emocionante hasta el momento? ¡Únete a nosotros y desvela los misterios en esta experiencia inmersiva de escape room!",
+
+"Inkleding":"Mobiliario",
+
+"We creëren niet alleen een ruimte, we scheppen een ervaring die de zintuigen prikkelt en de verbeelding stimuleert.":"No solo creamos un espacio, creamos una experiencia que estimula los sentidos y estimula la imaginación.",
+
+"Ons team bestaat uit een diverse groep met elk hun eigen unieke vaardigheden en achtergronden. Van creatieve denkers tot technische experts.":"Nuestro equipo está formado por un grupo diverso, cada uno con sus propias habilidades y antecedentes únicos. Desde pensadores creativos hasta expertos técnicos.",
+
+"Teamleider en uitwerking van de kist en de challenge van de lasers":"Líder de equipo y desarrollo de la caja y el desafío láser.",
+
+"Teamleider en uitwerking van complementaire kabels":"Líder de equipo y desarrollo de cables complementarios.",
+
+"Uitwerking van de kist en de challenge van de lasers 🚨": "Elaboración de la caja y el desafío de los láseres 🚨",
+
+"Uitwerking van de kleine kluis":"Elaboración de la pequeña caja fuerte",
+
+"Uitwerking lasergun en cameraboxen":"Elaboración de cajas para pistola láser y cámara.",
+
+"Uitwerking van touch sensoren, MQTT verbindingen en dashboardscherm":"Desarrollo de sensores táctiles, conexiones MQTT y pantalla de salpicadero",
+
+"Uitwerking van positionering en tablet":"Desarrollo de posicionamiento y tablet.",
+
+"Uitwerking lasergun en verwelkomingsvideo":"Elaboración de pistola láser y vídeo de bienvenida.",
+
+
+"Taal":"Idioma",
+
+"Verhaal":"Historia",
+
+"Team": "Equipo"
+
+
 }

@@ -4,15 +4,15 @@
     "name": "Femke Steeman",
     "description": "Teamleider en uitwerking van de kist en de challenge van de lasers",
     "imageUrl": "img/team/femke.jpg",
-    "githubUrl": "https://github.com/mennocoppensd",
-    "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
+    "githubUrl": "https://github.com/FemkStee",
+    "linkedinUrl": "https://www.linkedin.com/in/femke-steeman-680887221/"
   },
   {
     "name": "Rhanna Coopman",
     "description": "Teamleider en uitwerking van complementaire kabels",
-    "imageUrl": "menno.jpg",
-    "githubUrl": "https://github.com/mennocoppensd",
-    "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
+    "imageUrl": "img/team/rhanna.jpg",
+    "githubUrl": "https://github.com/RhannaCoopman",
+    "linkedinUrl": "https://www.linkedin.com/in/rhanna-coopman-4589991bb/"
   },
   {
     "name": "Aleyna Uzuncam",
@@ -22,7 +22,7 @@
     "linkedinUrl": "https://www.linkedin.com/in/aleyna-uzuncam-688369222/"
   },
   {
-    "name": "Iris",
+    "name": "Iris Maenhout",
     "description": "Uitwerking van de kleine kluis",
     "imageUrl": "img/team/iris.jpg",
     "githubUrl": "https://github.com/IrisMaenhout",
@@ -43,7 +43,7 @@
     "linkedinUrl": "https://www.linkedin.com/in/wouter-tack-328530273/"
   },
   {
-    "name": "Sebastien",
+    "name": "Sebastien Daled-Rosseel",
     "description": "Uitwerking van positionering en tablet",
     "imageUrl": "img/team/seba.jpg",
     "githubUrl": "https://github.com/SebastienDaled",
@@ -57,9 +57,9 @@
     "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
   },
   {
-    "name": "Sam",
+    "name": "Sam Van der Plaetsen ",
     "description": "Uitwerking van positionering en tablet",
-    "imageUrl": "menno.jpg",
+    "imageUrl": "img/team/sam.jpg",
     "githubUrl": "https://github.com/mennocoppensd",
     "linkedinUrl": "https://www.linkedin.com/in/menno-coppens-d-eeckenbrugge-54ba841b7/"
   }
